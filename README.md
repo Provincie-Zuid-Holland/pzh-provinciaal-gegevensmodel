@@ -24,7 +24,7 @@ Het **Provinciaal Gegevensmodel** van Provincie Zuid-Holland (PZH) is ontwikkeld
 ---
 
 ## 🔍 Voorbeeld
-*(Hier komt een voorbeeldafbeelding van een deel van het model – nog toe te voegen)*
+![PGM voorbeeld](/assets/PGM-voorbeeld.png)
 
 ---
 
