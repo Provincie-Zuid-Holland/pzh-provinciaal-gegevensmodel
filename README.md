@@ -1,0 +1,50 @@
+# PZH Provinciaal Gegevensmodel
+
+## 📌 Over dit project
+Het **Provinciaal Gegevensmodel** van Provincie Zuid-Holland (PZH) is ontwikkeld om een consistente en gestandaardiseerde datahuishouding te realiseren. Het model volgt de Metamodel Enterprise Datamodel standaard van PETRA.
+
+### 🎯 Doel
+- Gegevens op elkaar laten aansluiten.
+- Heldere definities van begrippen en entiteiten.
+- Consistente rapportages en betrouwbare informatievoorziening.
+
+---
+
+## 📂 Inhoud van de repository
+- **Enterprise Architect (.eapx) bestanden** met het gegevensmodel.
+- Later worden aanvullende documentatie en scripts toegevoegd.
+
+---
+
+## ⚙️ Installatie & Gebruik
+1. Download of clone deze repository.
+2. Open de `.eapx` bestanden in **Enterprise Architect versie 17**.
+3. Verken het gegevensmodel en pas het toe in jouw data-omgeving.
+
+---
+
+## 🔍 Voorbeeld
+*(Hier komt een voorbeeldafbeelding van een deel van het model – nog toe te voegen)*
+
+---
+
+## 📜 Licentie
+De licentie wordt later toegevoegd in een `LICENSE`-bestand.
+
+---
+
+## 🤝 Bijdragen
+Het Provinciaal Gegevensmodel zal onderdeel worden van een **IPO-project**.  
+Wil je bijdragen? Houd deze repository in de gaten voor richtlijnen en updates.
+
+---
+
+## 📬 Contact
+**Diana Vermeeren**  
+Regisseur Datamodelleren  
+📧 ac.vermeeren@pzh.nl
+
+---
+
+## 🔗 Meer informatie
+- [Metamodel Enterprise Datamodel](https://petra.wikixl.nl/index.php/Metamodel_enterprise_datamodel)
