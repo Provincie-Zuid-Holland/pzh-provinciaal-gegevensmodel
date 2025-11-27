@@ -29,7 +29,7 @@ Het **Provinciaal Gegevensmodel** van Provincie Zuid-Holland (PZH) is ontwikkeld
 ---
 
 ## 📜 Licentie
-De licentie wordt later toegevoegd in een `LICENSE`-bestand.
+Het werk in deze repo valt onder de EUPL-1.2 licentie. Zie [Licentie](/LICENSE.md)
 
 ---
 
