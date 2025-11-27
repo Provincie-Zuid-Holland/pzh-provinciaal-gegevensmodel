@@ -11,14 +11,14 @@ Het **Provinciaal Gegevensmodel** van Provincie Zuid-Holland (PZH) is ontwikkeld
 ---
 
 ## 📂 Inhoud van de repository
-- **Enterprise Architect (.eapx) bestanden** met het gegevensmodel.
+- **Enterprise Architect (.xea) bestanden** met het gegevensmodel.
 - Later worden aanvullende documentatie en scripts toegevoegd.
 
 ---
 
 ## ⚙️ Installatie & Gebruik
 1. Download of clone deze repository.
-2. Open de `.eapx` bestanden in **Enterprise Architect versie 17**.
+2. Importeer het `.xea` bestand in **Enterprise Architect versie 17**.
 3. Verken het gegevensmodel en pas het toe in jouw data-omgeving.
 
 ---
@@ -34,7 +34,7 @@ Het werk in deze repo valt onder de EUPL-1.2 licentie. Zie [Licentie](/LICENSE.m
 ---
 
 ## 🤝 Bijdragen
-Het Provinciaal Gegevensmodel zal onderdeel worden van een **IPO-project**.  
+Het Provinciaal Gegevensmodel zal een project worden wat gedragen worden door het IPO en de IBDS.  
 Wil je bijdragen? Houd deze repository in de gaten voor richtlijnen en updates.
 
 ---
