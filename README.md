@@ -18,8 +18,9 @@ Het **Provinciaal Gegevensmodel** van Provincie Zuid-Holland (PZH) is ontwikkeld
 
 ## ⚙️ Installatie & Gebruik
 1. Download of clone deze repository.
-2. Importeer het `.xea` bestand in **Enterprise Architect versie 17**.
-3. Verken het gegevensmodel en pas het toe in jouw data-omgeving.
+2. **Enterprise Architect versie 17**: Importeer het `.xea` bestand in een bestaand model
+3. **Enterprise Architect Viewer/Lite**: Open het '.qea' bestand ([download de viewer hier](https://sparxsystems.com/bin/ealite_x64.msi))
+4. Verken het gegevensmodel en pas het toe in jouw data-omgeving.
 
 ---
 
